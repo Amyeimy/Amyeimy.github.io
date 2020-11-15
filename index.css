@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-image: url("Ireem31.PNG");
+    background-size: cover;
+    background-color: white;
+    color: burlywood;
+  }
+  
+  h1,h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight:bold;
+    color: burlywood;
+    }
+  
+    h1{
+      padding:10% 0 0 0;
+   
+  
+    }
+  
+    .tech_lang{
+      border-radius: 50%;
+      max-width: 130px;
+    }
+  
+    nav{
+      background-color: transparent;
+      width: 100vw;
+      height: 5vh;
+      justify-content: space-evenly;
+      display: flex;
+      margin-bottom: 5%;
+      position: fixed;
+  
+  
+    nav a {
+      color:rgb(252, 252, 252);
+      text-decoration: none;
+      }
+  
+    span{
+      font-weight: bold;
+    }
+  
+    .top{
+      background-color: transparent;
+      margin: 0% auto;
+      width: 100%;
+      border: 1px solid #fcf1f1;
+      text-align: center;
+  }
+  
+    .about_us,.course{
+      background-color: #b0eacd;
+      text-align: center;
+       margin: 0% auto;
+       width: 100%;
+       border: 1px solid #b0eacd;
+    }
+  .course{
+    background-color: #21bf73;
+      text-align: center;
+       margin: 0% auto;
+      width: 100%;
+       border: 1px solid #b0eacd;
+  }
+  
+    .course h2{
+      padding: 20px;
+    }
+  
+    a:hover {
+      cursor: pointer;
+      color: grey;
+    }
